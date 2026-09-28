@@ -1,10 +1,7 @@
-# ❤️ Heart Disease Prediction -- Machine Learning Project
+# HeartCare-Multi-Step-Health-Screening-Prediction-System
 
 This repository contains a Jupyter Notebook demonstrating a **machine
-learning-based prediction system** for heart disease detection.
-
-The project applies data analysis and ML techniques to predict the
-likelihood of heart disease based on medical attributes.
+learning-based prediction system** for heartcare.
 
 ------------------------------------------------------------------------
 
@@ -42,21 +39,6 @@ applications in healthcare.
 
 ------------------------------------------------------------------------
 
-### ✅ Model Development
-
--   Training machine learning models
--   Prediction logic\
--   Model evaluation
-
-------------------------------------------------------------------------
-
-### ✅ Prediction System
-
--   Heart disease likelihood prediction
--   Performance analysis
-
-------------------------------------------------------------------------
-
 ## 🛠️ Technologies Used
 
 -   **Python**
@@ -66,8 +48,7 @@ applications in healthcare.
 -   **Matplotlib / Visualization**
 
 ------------------------------------------------------------------------
-
-## 📦 Requirements
+## Requirements
 
 Install dependencies before running:
 
@@ -87,30 +68,8 @@ jupyter notebook "HEART DISEASE (2).ipynb"
 
 3.  Run cells sequentially.
 
-------------------------------------------------------------------------
 
-## 🎯 Learning Objectives
 
-This notebook helps understand:
 
-✔ Machine learning in healthcare\
-✔ Data preprocessing techniques\
-✔ Feature importance\
-✔ Model training & evaluation\
-✔ Prediction workflow
 
-------------------------------------------------------------------------
-
-## 📖 Notes
-
--   Designed for **educational purposes**
--   Focused on **ML fundamentals & healthcare application**
--   Suitable for ML beginners & students
-
-------------------------------------------------------------------------
-
-## 👨‍💻 Author
-
-**Muhammad Uzair Zafar**\
-Computer Science \| AI ENGINEER
 
